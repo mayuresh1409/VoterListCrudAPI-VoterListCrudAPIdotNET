@@ -1,0 +1,6 @@
+@VoterListCrudAPI_HostAddress = http://localhost:5067
+
+GET {{VoterListCrudAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
